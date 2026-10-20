@@ -1,0 +1,15 @@
+# Data files
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archives and macOS files
+*.zip
+.DS_Store
