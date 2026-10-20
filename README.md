@@ -1,4 +1,4 @@
-# Data Science Coursework
+# Data Science Projects
 
 Python notebooks exploring statistics, simulation, hypothesis testing, and Apache Spark in Databricks.
 
